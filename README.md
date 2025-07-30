@@ -34,3 +34,4 @@ You can run each task's code by executing the respective Python script file. For
 
 ```bash
 $ python3 0-main.py
+# Vérification des fichiers
